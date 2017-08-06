@@ -4,7 +4,7 @@
 Suggest the suitable exercise places for users from the aspects of air quality and health <br>
 
 <b> Definition of Suitable： </b><br>
-GFE_DEGREE = 3 * PM2.5 + 2 * Pollutant_Consumption + 1 * Ultraviolet_Rays + 1 * Humidity + 1 * Traffic_Accident <br>
+GFE_DEGREE = 3 * PM2.5_Concentration + 2 * Air_Pollutant_Intake + 1 * Ultraviolet_Rays + 1 * Humidity + 1 * Traffic_Accident_Quantity <br>
 
 <b> Website : Good For Exercise </b><br>
 https://fuminghuang.github.io/asian_gfe/  <br>
