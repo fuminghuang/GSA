@@ -19,4 +19,4 @@ Utilized Open Data Sets： <br>
 ~ 2016 Traffic Accident dataset <br>
 ~ Taiwan Exercise Sites dataset 
 
-<img src="https://fuminghuang.github.io/asian_gfe/images/LOGO.png"> 
+<center> <img src="https://fuminghuang.github.io/asian_gfe/images/LOGO.png"> </center>
