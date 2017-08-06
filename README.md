@@ -1,4 +1,4 @@
-# 隊伍：好運氣 (Good For Exercise)
+# TEAM：好運氣 (Good For Exercise)
 
 Website : Good For Exercise
 
