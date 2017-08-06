@@ -1,6 +1,6 @@
 # TEAM：好運氣 (Good For Exercise)
 
-Project Goal： <br>
+<b>Project Goal： </b><br>
 Suggest the suitable exercise places for users from the aspects of air quality and health <br>
 
 Definition of Suitable： <br>
