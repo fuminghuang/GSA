@@ -17,6 +17,6 @@ Utilized Open Data Sets： <br>
 ~ 2012-2016 Weather dataset <br>
 ~ 2012-2016 Air Quality dataset <br>
 ~ 2016 Traffic Accident dataset <br>
-~ Taiwan Exercise Sites dataset <p align="right"/>
+~ Taiwan Exercise Sites dataset 
 
-<img src="https://fuminghuang.github.io/asian_gfe/images/LOGO.png"> </p>
+<img src="https://fuminghuang.github.io/asian_gfe/images/LOGO.png"> 
