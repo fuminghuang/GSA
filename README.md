@@ -1,5 +1,5 @@
 # TEAM：好運氣 (Good For Exercise)
-# competition：2017亞洲跨國黑客松
+# COMPETITION：2017亞洲跨國黑客松
 
 
 <b> Project Goal： </b> <br>
