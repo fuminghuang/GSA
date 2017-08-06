@@ -3,16 +3,16 @@
 Project Goal： <br>
 Suggest the suitable exercise places for users from the aspects of air quality and health
 
-Definition of Suitable：
+Definition of Suitable： <br>
 GFE_DEGREE = 3 * PM2.5 + 2 * Pollutant_Consumption + 1 * Ultraviolet_Rays + 1 * Humidity + 1 * Traffic_Accident
 
-Website : Good For Exercise
+Website : Good For Exercise <br>
 https://fuminghuang.github.io/asian_gfe/
 
-Presentation File
+Presentation File <br>
 https://github.com/fuminghuang/asian_gfe/blob/master/GSA_slides.pptx
 
-Utilized Open Data Sets：
+Utilized Open Data Sets： <br>
 ~ Oxygen Consumption of Exercise dataset
 ~ 2012-2016 Weather dataset
 ~ 2012-2016 Air Quality dataset
