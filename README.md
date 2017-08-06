@@ -1,4 +1,6 @@
 # TEAM：好運氣 (Good For Exercise)
+# competition：2017亞洲跨國黑客松
+
 
 <b> Project Goal： </b> <br>
 Suggest the suitable exercise places for users from the aspects of air quality and health <br>
